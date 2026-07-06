@@ -112,13 +112,6 @@ The Jenkins pipeline automates the following steps:
 - `GET /api/health` → Health check  
 - `GET /api/version` → Returns deployed version   
 
----
 
-## 🙌 Author
-
-**Tushar Swarnkar**  
-Aspiring Backend & DevOps Engineer  
-
----
 
 
